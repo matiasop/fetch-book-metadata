@@ -1,6 +1,9 @@
-from typing import Iterator, DefaultDict
+from typing import Iterator, DefaultDict, Tuple, List
 from collections import defaultdict
 from datetime import datetime
+from isbn import get_book_info
+from operator import itemgetter
+import json
 
 TO_BE_IGNORED: set = {"Mis recortes  ", "Unknown (Usuario de Microsoft Office)",
                   "Pina Polo, Ciceron_triunfo_y_frustracion_de_un_homo  ",
@@ -57,7 +60,8 @@ def parse_datetime(data: str):
         raise ValueError
     return date, timestring
 
-def parse_quotes(quote_iterator: Iterator[list], to_be_ignored: set):
+
+def parse_quotes(quote_iterator: Iterator[list], to_be_ignored: set) -> DefaultDict:
     quote_dict = defaultdict(list)
     for title, metadata, _, quote in quote_iterator:
         if title in to_be_ignored:
@@ -73,10 +77,57 @@ def parse_quotes(quote_iterator: Iterator[list], to_be_ignored: set):
 
     return quote_dict
 
+
+def read_books_metadata_file(filename: str):
+    with open(filename, "r") as json_file:
+        books_metadata = json.load(json_file)
+    return books_metadata
+
+def write_json(filename: str, json_dict: dict):
+    json_string = json.dumps(json_dict, ensure_ascii=False, indent=4, sort_keys=True)
+    with open(filename, 'w', encoding='utf-8') as file:
+        file.write(json_string)
+
+
+def get_quote_metadata(quote_dict: DefaultDict, books_metadata: dict) -> Tuple[DefaultDict, List]:
+    quote_complete_dict = defaultdict(list)
+    quote_list = []
+    for title in quote_dict:
+        if title in books_metadata:
+            print(f"Found book: '{title}' in books_metadata file")
+            book_title, author, published_date, page_count, language, small_thumbnail, thumbnail, isbn_10, isbn_13 = itemgetter('book_title', 'author', 'published_date', 'page_count', 'language', 'small_thumbnail', 'thumbnail', 'isbn_10', 'isbn_13')(books_metadata[title])
+        else:
+            print(f"Fetching data for book: '{title}'")
+            book_title, author, published_date, page_count, language, small_thumbnail, thumbnail, isbn_10, isbn_13 = get_book_info(title)
+            books_metadata[title] = {'book_title': book_title, 'author': author, 'published_date': published_date, 'page_count': page_count, 'language': language, 'small_thumbnail': small_thumbnail, 'thumbnail': thumbnail, 'isbn_10': isbn_10, 'isbn_13': isbn_13}
+        for q in quote_dict[title]:
+            data = {'title': q['title'], 'metadata': q['metadata'], 'quote': q['quote'],
+                    'initial_pos': q['initial_pos'], 'final_pos': q['final_pos'],
+                    'date': q['date'], 'time': q['time'], 'book_title': book_title,
+                    'author': author, 'published_date': published_date,
+                    'page_count': page_count, 'language': language,
+                    'small_thumbnail': small_thumbnail, 'thumbnail': thumbnail,
+                    'isbn_10': isbn_10, 'isbn_13': isbn_13}
+            quote_complete_dict[title].append(data)
+            quote_list.append(data)
+    
+    return quote_complete_dict, quote_list, books_metadata
+
+
 def main():
-    quote_iterator = read_quote('My Clippings.txt')
+    quote_iterator = read_quote('data/My Clippings.txt')
     quote_dict: DefaultDict = parse_quotes(quote_iterator, TO_BE_IGNORED)
-    print(quote_dict)
+    books_metadata = read_books_metadata_file('data/books_metadata.json')
+    quote_complete_dict, quote_list, books_metadata = get_quote_metadata(quote_dict, books_metadata)
+
+    # Create json file with json metadata
+    write_json('data/books_metadata.json', books_metadata)
+
+    # Create json file with titles as keys (OPTIONAL)
+    write_json('data/quotes.json', quote_dict)
+
+    # Create json file with additional info
+    write_json('data/quotes_complete.json', quote_complete_dict)
 
 if __name__ == "__main__":
     main()
