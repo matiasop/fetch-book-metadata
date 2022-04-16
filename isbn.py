@@ -16,6 +16,8 @@ def correct_title(title):
         "Guerra y paz (Lev Nikoláievich Tolstoi)": "War and Peace",
         "The Bitcoin Standard (Saifedean Ammous)": "Bitcoin Standard",
         "Madame Bovary (trad. Juan Bravo Castillo) (Gustave Flaubert)": "Madame Bovary",
+        "Meditaciones (Gredos) (Marco Aurelio Antonino Augusto)": "Meditaciones (Marco Aurelio)",
+        "Copia-o-Muerte-Book (Desconocido)": "Copia o Muerte", 
     }
 
     if title not in correct:

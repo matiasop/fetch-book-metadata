@@ -54,6 +54,17 @@
         "small_thumbnail": "http://books.google.com/books/content?id=tsQJAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=tsQJAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
+    "Autobiography (Routledge Classics) (Bertrand Russell)": {
+        "author": "Bertrand Russell",
+        "book_title": "Autobiography",
+        "isbn_10": "1135223815",
+        "isbn_13": "",
+        "language": "en",
+        "page_count": 768,
+        "published_date": "2009-09-01",
+        "small_thumbnail": "http://books.google.com/books/content?id=uIKMAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=uIKMAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
     "Capital in the Twenty-First Century (Thomas Piketty)": {
         "author": "Thomas Piketty",
         "book_title": "Capital in the Twenty-First Century",
@@ -75,6 +86,17 @@
         "published_date": "2001-08-31",
         "small_thumbnail": "http://books.google.com/books/content?id=wy6LLlzUmkUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=wy6LLlzUmkUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "Copia-o-Muerte-Book (Desconocido)": {
+        "author": "David M. Manrique",
+        "book_title": "Dize la muerte",
+        "isbn_10": "9788416987511",
+        "isbn_13": "",
+        "language": "es",
+        "page_count": 186,
+        "published_date": "2019",
+        "small_thumbnail": "",
+        "thumbnail": ""
     },
     "Cuentos completos (Jorge Luis Borges)": {
         "author": "Jorge Luis Borges",
@@ -351,6 +373,17 @@
         "small_thumbnail": "http://books.google.com/books/content?id=OUXQwgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=OUXQwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
+    "La meta (Eliyahu M. Goldratt)": {
+        "author": "Eliyahu M. Goldratt",
+        "book_title": "La meta",
+        "isbn_10": "9788479787189",
+        "isbn_13": "",
+        "language": "es",
+        "page_count": 402,
+        "published_date": "2005",
+        "small_thumbnail": "http://books.google.com/books/content?id=y_I7AAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=y_I7AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     "La muerte de Iván Ilich (León Tolstói)": {
         "author": "graf Lev Tolstoi",
         "book_title": "La muerte de Iván Ilitch",
@@ -373,6 +406,17 @@
         "small_thumbnail": "http://books.google.com/books/content?id=G3_UAeo8Dh0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=G3_UAeo8Dh0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
+    "Life (Richard Fortey)": {
+        "author": "Richard A. Fortey",
+        "book_title": "Life",
+        "isbn_10": "",
+        "isbn_13": "",
+        "language": "en",
+        "page_count": 346,
+        "published_date": "1999",
+        "small_thumbnail": "http://books.google.com/books/content?id=GNUPAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=GNUPAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     "Lo pequeño es hermoso (Ernst Friedrich Schumacher)": {
         "author": "E.F. Schumacher",
         "book_title": "Lo pequeño es hermoso",
@@ -394,6 +438,17 @@
         "published_date": "1991",
         "small_thumbnail": "http://books.google.com/books/content?id=vyz071RrIjAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=vyz071RrIjAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "Los miserables I - Fantine (Victor Hugo)": {
+        "author": "Victor Hugo",
+        "book_title": "Los Miserables, Volumen I Fantine (Spanish Edition)",
+        "isbn_10": "9781543053364",
+        "isbn_13": "",
+        "language": "es",
+        "page_count": 108,
+        "published_date": "2017-02-11",
+        "small_thumbnail": "http://books.google.com/books/content?id=fbKAnQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=fbKAnQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     "Los problemas de la filosofía (Bertrand Russell)": {
         "author": "Bertrand Russell",
@@ -438,6 +493,17 @@
         "published_date": "2018-12-20",
         "small_thumbnail": "http://books.google.com/books/content?id=Vc8YwAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=Vc8YwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "Meditaciones (Gredos) (Marco Aurelio Antonino Augusto)": {
+        "author": "Marco Aurelio",
+        "book_title": "Meditaciones",
+        "isbn_10": "8490745110",
+        "isbn_13": "",
+        "language": "es",
+        "page_count": 152,
+        "published_date": "2018-08-22",
+        "small_thumbnail": "http://books.google.com/books/content?id=G3dqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=G3dqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     "One Billion Americans (Matthew Yglesias)": {
         "author": "Matthew Yglesias",
@@ -559,6 +625,17 @@
         "published_date": "2018-05-29",
         "small_thumbnail": "http://books.google.com/books/content?id=NZVJDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=NZVJDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "The Age of Revolution: 1789-1848 (Eric Hobsbawm)": {
+        "author": "Eric J. Hobsbawm",
+        "book_title": "The Age of Revolution 1789-1848",
+        "isbn_10": "",
+        "isbn_13": "",
+        "language": "en",
+        "page_count": 356,
+        "published_date": "1996",
+        "small_thumbnail": "http://books.google.com/books/content?id=FvQkAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=FvQkAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     "The Aristocracy of Talent (Adrian Wooldridge)": {
         "author": "Adrian Wooldridge",
