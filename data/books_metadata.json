@@ -725,6 +725,17 @@
         "small_thumbnail": "http://books.google.com/books/content?id=wMY5P4KSiM8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=wMY5P4KSiM8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
+    "The Essential Keynes (John Maynard Keynes)": {
+        "author": "John Maynard Keynes",
+        "book_title": "The Essential Keynes",
+        "isbn_10": "1846148138",
+        "isbn_13": "",
+        "language": "en",
+        "page_count": 592,
+        "published_date": "2016-01-05",
+        "small_thumbnail": "http://books.google.com/books/content?id=crZPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=crZPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     "The Infinite Machine (Camila Russo)": {
         "author": "Camila Russo",
         "book_title": "The Infinite Machine",
