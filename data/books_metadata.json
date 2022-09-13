@@ -87,6 +87,17 @@
         "small_thumbnail": "http://books.google.com/books/content?id=wy6LLlzUmkUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=wy6LLlzUmkUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
+    "Constitución Política de la República de Chile (El pueblo de Chile)": {
+        "author": "Patricio Zapata Larraín",
+        "book_title": "La casa de todos y todas",
+        "isbn_10": "9561425092",
+        "isbn_13": "",
+        "language": "es",
+        "page_count": 326,
+        "published_date": "2020-03-30",
+        "small_thumbnail": "http://books.google.com/books/content?id=QNLaDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=QNLaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
     "Copia-o-Muerte-Book (Desconocido)": {
         "author": "David M. Manrique",
         "book_title": "Dize la muerte",
@@ -295,6 +306,17 @@
         "published_date": "2000-02",
         "small_thumbnail": "",
         "thumbnail": ""
+    },
+    "Hobbes: A Very Short Introduction (Very Short Introductions) (Richard Tuck)": {
+        "author": "Richard Tuck",
+        "book_title": "Hobbes: A Very Short Introduction",
+        "isbn_10": "9780192802552",
+        "isbn_13": "",
+        "language": "en",
+        "page_count": 168,
+        "published_date": "2002-05-30",
+        "small_thumbnail": "http://books.google.com/books/content?id=K7tZsFeyWcEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=K7tZsFeyWcEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     "How Much is Enough? (Robert Skidelsky)": {
         "author": "Robert Skidelsky",
@@ -725,6 +747,17 @@
         "small_thumbnail": "http://books.google.com/books/content?id=wMY5P4KSiM8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=wMY5P4KSiM8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
+    "The Essential Keynes (John Maynard Keynes)": {
+        "author": "John Maynard Keynes",
+        "book_title": "The Essential Keynes",
+        "isbn_10": "0698408519",
+        "isbn_13": "",
+        "language": "en",
+        "page_count": 512,
+        "published_date": "2016-01-05",
+        "small_thumbnail": "http://books.google.com/books/content?id=Tv4WCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=Tv4WCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
     "The Infinite Machine (Camila Russo)": {
         "author": "Camila Russo",
         "book_title": "The Infinite Machine",
@@ -823,6 +856,17 @@
         "published_date": "2016-12-07",
         "small_thumbnail": "http://books.google.com/books/content?id=p7C2DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=p7C2DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "What We Owe the Future (William MacAskill)": {
+        "author": "William MacAskill",
+        "book_title": "What We Owe the Future",
+        "isbn_10": "1541618637",
+        "isbn_13": "",
+        "language": "en",
+        "page_count": 390,
+        "published_date": "2022-08-16",
+        "small_thumbnail": "http://books.google.com/books/content?id=SaFTEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=SaFTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     "Why Read? (Mark Edmundson)": {
         "author": "Mark Edmundson",
