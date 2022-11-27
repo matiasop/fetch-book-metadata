@@ -18,6 +18,7 @@ def correct_title(title):
         "Madame Bovary (trad. Juan Bravo Castillo) (Gustave Flaubert)": "Madame Bovary",
         "Meditaciones (Gredos) (Marco Aurelio Antonino Augusto)": "Meditaciones (Marco Aurelio)",
         "Copia-o-Muerte-Book (Desconocido)": "Copia o Muerte", 
+        "El Imperio Final (Ed. ilustrada) (Brandon Sanderson)": "The Final Empire (Brandom Sanderson)",
     }
 
     if title not in correct:

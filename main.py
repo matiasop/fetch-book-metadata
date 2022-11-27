@@ -1,13 +1,17 @@
 from typing import Iterator, DefaultDict, Tuple, List
 from collections import defaultdict
 from datetime import datetime
-from isbn import get_book_info
 from operator import itemgetter
 import json
+from isbn import get_book_info
 
 TO_BE_IGNORED: set = {"Mis recortes  ", "Unknown (Usuario de Microsoft Office)",
                   "Pina Polo, Ciceron_triunfo_y_frustracion_de_un_homo  ",
                   "How to DeFi (CoinGecko;Lau, Darren;Lau, Daryl;Teh, Sze Jin;Kho, Kristian;Azmi, Erina;Lee, TM;Ong, Bobby)",
+                  "Moral Progress and Cause X (https://www.effectivealtruism.org/articles/moral-progress-and-cause-x)",
+                  "Hits-based Giving - Open Philanthropy (https://www.openphilanthropy.org/research/hits-based-giving/)",
+                  "The Possibility of an Ongoing Moral Catastrophe (Summary) (https://forum.effectivealtruism.org/s/nbK8XasGJCz2RGRPs/p/Dtr8aHqCQSDhyueFZ)",
+                  "Radical Empathy - Open Philanthropy (https://www.openphilanthropy.org/research/radical-empathy/)"
                   }
 
 def read_quote(filename: str) -> Iterator[list]:
