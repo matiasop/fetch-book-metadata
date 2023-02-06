@@ -19,6 +19,7 @@ def correct_title(title):
         "Meditaciones (Gredos) (Marco Aurelio Antonino Augusto)": "Meditaciones (Marco Aurelio)",
         "Copia-o-Muerte-Book (Desconocido)": "Copia o Muerte", 
         "El Imperio Final (Ed. ilustrada) (Brandon Sanderson)": "The Final Empire (Brandom Sanderson)",
+        "Early Retirement Extreme: A philosophical and practical guide to financial independence (Fisker, Jacob Lund;Averbach, Zev;Beaver, Ann)": "Early Retirement Extreme: A philosophical and practical guide to financial independence"
     }
 
     if title not in correct:

@@ -109,6 +109,17 @@
         "small_thumbnail": "",
         "thumbnail": ""
     },
+    "Cuentos completos (Antón Chéjov)": {
+        "author": "Anton Pavlovich Chejov",
+        "book_title": "Cuentos completos: [1880-1885]",
+        "isbn_10": "9788483931493",
+        "isbn_13": "",
+        "language": "es",
+        "page_count": 1168,
+        "published_date": "2013",
+        "small_thumbnail": "",
+        "thumbnail": ""
+    },
     "Cuentos completos (Jorge Luis Borges)": {
         "author": "Jorge Luis Borges",
         "book_title": "Cuentos completos",
@@ -185,6 +196,17 @@
         "published_date": "2015-07-28",
         "small_thumbnail": "http://books.google.com/books/content?id=sAgbBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=sAgbBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "Early Retirement Extreme: A philosophical and practical guide to financial independence (Fisker, Jacob Lund;Averbach, Zev;Beaver, Ann)": {
+        "author": "Jacob Lund Fisker",
+        "book_title": "Early Retirement Extreme",
+        "isbn_10": "9781453601211",
+        "isbn_13": "",
+        "language": "en",
+        "page_count": 226,
+        "published_date": "2010",
+        "small_thumbnail": "http://books.google.com/books/content?id=dTm7cQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=dTm7cQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     "El Imperio Final (Ed. ilustrada) (Brandon Sanderson)": {
         "author": "Brandon Sanderson",
@@ -339,6 +361,17 @@
         "published_date": "2013",
         "small_thumbnail": "http://books.google.com/books/content?id=QjQ4kgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=QjQ4kgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "How to Not Die Alone: The Surprising Science That Will Help You Find Love (Logan Ury)": {
+        "author": "Logan Ury",
+        "book_title": "How to Not Die Alone",
+        "isbn_10": "9780349428291",
+        "isbn_13": "",
+        "language": "en",
+        "page_count": 352,
+        "published_date": "2021-02-02",
+        "small_thumbnail": "http://books.google.com/books/content?id=90yzzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=90yzzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     "La Ilíada (Homero)": {
         "author": "Homer",
@@ -878,6 +911,17 @@
         "published_date": "2014-09-30",
         "small_thumbnail": "http://books.google.com/books/content?id=FzRBAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=FzRBAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "The Six Pillars of Self-Esteem (Branden, Nathaniel)": {
+        "author": "Nathaniel Branden",
+        "book_title": "Six Pillars of Self-Esteem",
+        "isbn_10": "9780553374391",
+        "isbn_13": "",
+        "language": "en",
+        "page_count": 372,
+        "published_date": "1995-05-01",
+        "small_thumbnail": "http://books.google.com/books/content?id=zahmByF_lqoC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=zahmByF_lqoC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     "The Tyranny of Merit (Sandel, Michael J.)": {
         "author": "Michael J. Sandel",
