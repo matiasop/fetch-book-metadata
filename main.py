@@ -11,7 +11,8 @@ TO_BE_IGNORED: set = {"Mis recortes  ", "Unknown (Usuario de Microsoft Office)",
                   "Moral Progress and Cause X (https://www.effectivealtruism.org/articles/moral-progress-and-cause-x)",
                   "Hits-based Giving - Open Philanthropy (https://www.openphilanthropy.org/research/hits-based-giving/)",
                   "The Possibility of an Ongoing Moral Catastrophe (Summary) (https://forum.effectivealtruism.org/s/nbK8XasGJCz2RGRPs/p/Dtr8aHqCQSDhyueFZ)",
-                  "Radical Empathy - Open Philanthropy (https://www.openphilanthropy.org/research/radical-empathy/)"
+                  "Radical Empathy - Open Philanthropy (https://www.openphilanthropy.org/research/radical-empathy/)",
+                  "Rationality: From AI to Zombies (Eliezer Yudkowsky)",
                   }
 
 def read_quote(filename: str) -> Iterator[list]:
