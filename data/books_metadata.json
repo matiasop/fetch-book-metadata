@@ -43,6 +43,17 @@
         "small_thumbnail": "http://books.google.com/books/content?id=5fqbz_qGi0AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=5fqbz_qGi0AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
+    "As I Lay Dying (William Faulkner)": {
+        "author": "William Faulkner",
+        "book_title": "As I Lay Dying",
+        "isbn_10": "",
+        "isbn_13": "",
+        "language": "en",
+        "page_count": 268,
+        "published_date": "1962",
+        "small_thumbnail": "http://books.google.com/books/content?id=hM2wAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=hM2wAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     "Augustus (Williams, John)": {
         "author": "John Williams",
         "book_title": "Augustus",
@@ -76,6 +87,17 @@
         "small_thumbnail": "http://books.google.com/books/content?id=dqEuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=dqEuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
+    "Confessions of a Recovering Engineer (Marohn, Charles L.)": {
+        "author": "Charles L. Marohn, Jr.",
+        "book_title": "Confessions of a Recovering Engineer",
+        "isbn_10": "1119699290",
+        "isbn_13": "",
+        "language": "en",
+        "page_count": 279,
+        "published_date": "2021-09-08",
+        "small_thumbnail": "http://books.google.com/books/content?id=e386EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=e386EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
     "Conjuración de Catilina y otros textos (Salustio;Pseudo Salustio;Pseudo Cicerón)": {
         "author": "Salustio",
         "book_title": "La conjuración de Catilina. Guerra de Jugurta",
@@ -86,6 +108,17 @@
         "published_date": "2001-08-31",
         "small_thumbnail": "http://books.google.com/books/content?id=wy6LLlzUmkUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=wy6LLlzUmkUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "Consider the Lobster (Wallace, David Foster)": {
+        "author": "David Foster Wallace",
+        "book_title": "Consider The Lobster",
+        "isbn_10": "1405521015",
+        "isbn_13": "",
+        "language": "en",
+        "page_count": 352,
+        "published_date": "2012-06-28",
+        "small_thumbnail": "http://books.google.com/books/content?id=r3K6qSy-1mkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=r3K6qSy-1mkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     "Constitución Política de la República de Chile (El pueblo de Chile)": {
         "author": "Varios Autores",
@@ -219,6 +252,17 @@
         "small_thumbnail": "http://books.google.com/books/content?id=vbsg3vQ8YnMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=vbsg3vQ8YnMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
+    "El camino de los reyes (Brandon Sanderson)": {
+        "author": "Brandon Sanderson",
+        "book_title": "Way of Kings",
+        "isbn_10": "9781398703629",
+        "isbn_13": "",
+        "language": "en",
+        "page_count": 1008,
+        "published_date": "2021-03-30",
+        "small_thumbnail": "http://books.google.com/books/content?id=6YXJzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=6YXJzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     "El cisne negro (Nassim Nicholas Taleb)": {
         "author": "Nassim Nicholas Taleb",
         "book_title": "El cisne negro. Nueva edición ampliada y revisada",
@@ -251,6 +295,17 @@
         "published_date": "2007",
         "small_thumbnail": "http://books.google.com/books/content?id=j2K4NQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=j2K4NQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "El palacio de hielo (Tarjei Vesaas)": {
+        "author": "Tarjei Vesaas",
+        "book_title": "El palacio de hielo",
+        "isbn_10": "9992076011",
+        "isbn_13": "",
+        "language": "es",
+        "page_count": 181,
+        "published_date": "2021-02-10",
+        "small_thumbnail": "http://books.google.com/books/content?id=6uAbEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=6uAbEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     "Elogio de la Ociosidad y otros ensayos (Bertrand Russell)": {
         "author": "Bertrand Russell",
@@ -372,6 +427,17 @@
         "published_date": "2021-02-02",
         "small_thumbnail": "http://books.google.com/books/content?id=90yzzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=90yzzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "LA FE EXPLICADA Leo J 1.doc (Unknown)": {
+        "author": "Leo. J. Trese",
+        "book_title": "La fe explicada",
+        "isbn_10": "8432137685",
+        "isbn_13": "",
+        "language": "es",
+        "page_count": 640,
+        "published_date": "1994-09-30",
+        "small_thumbnail": "http://books.google.com/books/content?id=tCuSDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=tCuSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     "La Ilíada (Homero)": {
         "author": "Homer",
@@ -615,6 +681,17 @@
         "small_thumbnail": "http://books.google.com/books/content?id=gn66svr6orwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=gn66svr6orwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
+    "Pride and Prejudice (Jane Austen)": {
+        "author": "Jane Austen",
+        "book_title": "Pride Prejudice",
+        "isbn_10": "9390504643",
+        "isbn_13": "",
+        "language": "en",
+        "page_count": 440,
+        "published_date": "2021-03-02",
+        "small_thumbnail": "http://books.google.com/books/content?id=w7kgEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=w7kgEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
     "Que_es_el_hombre_martin_buber (Martin Buber)": {
         "author": "Martin Buber",
         "book_title": "¿Qué es el hombre?",
@@ -669,6 +746,17 @@
         "published_date": "2003",
         "small_thumbnail": "http://books.google.com/books/content?id=tVvFl2lXvCgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=tVvFl2lXvCgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "Self-Esteem (Matthew McKay;Patrick Fanning)": {
+        "author": "Patrick Fanning",
+        "book_title": "Self-Esteem",
+        "isbn_10": "1608821471",
+        "isbn_13": "",
+        "language": "en",
+        "page_count": 336,
+        "published_date": "2005-05-01",
+        "small_thumbnail": "http://books.google.com/books/content?id=W5IZPJVF0NEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=W5IZPJVF0NEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     "Sobre la República (Marco Tulio Cicerón)": {
         "author": "Cicerón",
@@ -901,6 +989,17 @@
         "small_thumbnail": "http://books.google.com/books/content?id=q_R8DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=q_R8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
+    "The Secret Life of Groceries (Benjamin Lorr)": {
+        "author": "Benjamin Lorr",
+        "book_title": "The Secret Life of Groceries",
+        "isbn_10": "0553459406",
+        "isbn_13": "",
+        "language": "en",
+        "page_count": 352,
+        "published_date": "2020-09-08",
+        "small_thumbnail": "http://books.google.com/books/content?id=Nn_JDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=Nn_JDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
     "The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century (Steven Pinker)": {
         "author": "Steven Pinker",
         "book_title": "The Sense of Style",
@@ -944,6 +1043,17 @@
         "published_date": "2020-09-08",
         "small_thumbnail": "http://books.google.com/books/content?id=xB2ZDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=xB2ZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "The War that Ended Peace (Margaret MacMillan)": {
+        "author": "Margaret MacMillan",
+        "book_title": "The War That Ended Peace",
+        "isbn_10": "0812994701",
+        "isbn_13": "",
+        "language": "en",
+        "page_count": 784,
+        "published_date": "2013-10-29",
+        "small_thumbnail": "http://books.google.com/books/content?id=xjLz2685I74C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=xjLz2685I74C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     "Trilogy (Jon Fosse)": {
         "author": "Jon Fosse",
