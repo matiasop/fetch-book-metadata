@@ -1,5 +1,6 @@
 import requests
 import time
+import os
 
 
 def correct_title(title):
@@ -17,7 +18,7 @@ def correct_title(title):
         "The Bitcoin Standard (Saifedean Ammous)": "Bitcoin Standard",
         "Madame Bovary (trad. Juan Bravo Castillo) (Gustave Flaubert)": "Madame Bovary",
         "Meditaciones (Gredos) (Marco Aurelio Antonino Augusto)": "Meditaciones (Marco Aurelio)",
-        "Copia-o-Muerte-Book (Desconocido)": "Copia o Muerte", 
+        "Copia-o-Muerte-Book (Desconocido)": "Copia o Muerte",
         "El Imperio Final (Ed. ilustrada) (Brandon Sanderson)": "The Final Empire (Brandom Sanderson)",
         "Early Retirement Extreme: A philosophical and practical guide to financial independence (Fisker, Jacob Lund;Averbach, Zev;Beaver, Ann)": "Early Retirement Extreme: A philosophical and practical guide to financial independence",
         "El camino de los reyes (Brandon Sanderson)": "The way of kings",
@@ -32,61 +33,55 @@ def correct_title(title):
 def get_book_info(title):
     print(f"Getting data for:\n{title}")
     initial_time = time.time()
-    url = "https://www.googleapis.com/books/v1/volumes?q=intitle:"
+    search_query = correct_title(title)
+    api_key = os.getenv('API_KEY')
+    url = f"https://www.googleapis.com/books/v1/volumes?q={search_query}&key={api_key}"
+    print('URL', url)
 
-    title = correct_title(title)
-    title = title.replace(" ", "%20")
-    complete_url = f'{url}{title}'
-    print(complete_url)
+    response = requests.get(url)
+    response.raise_for_status()
 
-    r = requests.get(complete_url)
-    if r.status_code == 200:
-        data = r.json()
+    data = response.json()
 
-        if data["totalItems"] == 0:
-            print(f"total Items for {title} is equal to 0")
-            raise Exception
-            return ("", "", "", "", "", "", "", "", "")
+    if data["totalItems"] == 0:
+        print(f"total Items for {title} is equal to 0")
+        raise Exception
+        return ("", "", "", "", "", "", "", "", "")
 
-        book_info = data["items"][0]
-        book_title = book_info["volumeInfo"]["title"]
-        author = book_info["volumeInfo"]["authors"][0]
-        published_date = book_info["volumeInfo"]["publishedDate"]
-        page_count = ""
-        if "pageCount" in book_info["volumeInfo"]:
-            page_count = book_info["volumeInfo"]["pageCount"]
-        language = book_info["volumeInfo"]["language"]
-        isbn_10 = ""
-        isbn_13 = ""
-        for id in book_info["volumeInfo"]["industryIdentifiers"]:
-            if id["type"] == "ISBN_10":
-                isbn_10 = id["identifier"]
-            elif id["type"] == "ISBN_13":
-                isbn_10 = id["identifier"]
+    book_info = data["items"][0]
+    book_title = book_info["volumeInfo"]["title"]
+    author = book_info["volumeInfo"]["authors"][0]
+    published_date = book_info["volumeInfo"]["publishedDate"]
+    page_count = ""
+    if "pageCount" in book_info["volumeInfo"]:
+        page_count = book_info["volumeInfo"]["pageCount"]
+    language = book_info["volumeInfo"]["language"]
+    isbn_10 = ""
+    isbn_13 = ""
+    for id in book_info["volumeInfo"]["industryIdentifiers"]:
+        if id["type"] == "ISBN_10":
+            isbn_10 = id["identifier"]
+        elif id["type"] == "ISBN_13":
+            isbn_10 = id["identifier"]
 
-        # Get book thumbnail
-        small_thumbnail = ""
-        thumbnail = ""
-        if "imageLinks" in book_info["volumeInfo"]:
-            small_thumbnail = book_info["volumeInfo"]["imageLinks"]["smallThumbnail"]
-            thumbnail = book_info["volumeInfo"]["imageLinks"]["thumbnail"]
-
-        # print(book_title)
-        # print(author)
-        # print(published_date)
-        # print(page_count)
-        # print(language)
-        # print(small_thumbnail)
-        # print(thumbnail)
-        # print(isbn_10)
-        # print(isbn_13)
-
-        print(f"Time elapsed: {time.time() - initial_time}\n")
-        return book_title, author, published_date, page_count, language, small_thumbnail, thumbnail, isbn_10, isbn_13
-
-    print(f"Could not get info for {title}")
-    raise Exception
-    return ("", "", "", "", "", "", "", "", "")
+    # Get book thumbnail
+    small_thumbnail = ""
+    thumbnail = ""
+    if "imageLinks" in book_info["volumeInfo"]:
+        small_thumbnail = book_info["volumeInfo"]["imageLinks"]["smallThumbnail"]
+        thumbnail = book_info["volumeInfo"]["imageLinks"]["thumbnail"]
+    print(f"Time elapsed: {time.time() - initial_time}\n")
+    return (
+        book_title,
+        author,
+        published_date,
+        page_count,
+        language,
+        small_thumbnail,
+        thumbnail,
+        isbn_10,
+        isbn_13,
+    )
 
 
 if __name__ == "__main__":
