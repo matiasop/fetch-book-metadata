@@ -21,6 +21,17 @@
         "small_thumbnail": "http://books.google.com/books/content?id=0Qj7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=0Qj7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
+    "Amor líquido (Zygmunt Bauman)": {
+        "author": "Zygmunt Bauman",
+        "book_title": "Amor líquido",
+        "isbn_10": "8449334691",
+        "isbn_13": "",
+        "language": "es",
+        "page_count": 338,
+        "published_date": "2018-05-08",
+        "small_thumbnail": "http://books.google.com/books/content?id=KwdTDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=KwdTDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     "Anna Karénina (Lev Nikoláievich Tolstói)": {
         "author": "Lev Nikolaevich Tolstoï",
         "book_title": "Anna Karénina",
@@ -53,6 +64,17 @@
         "published_date": "1962",
         "small_thumbnail": "http://books.google.com/books/content?id=hM2wAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=hM2wAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "Attached: Are you Anxious, Avoidant or Secure? How the science of adult attachment can help you find – and keep – love (Levine, Amir;Heller, Rachel)": {
+        "author": "Amir Levine",
+        "book_title": "Maneras de amar",
+        "isbn_10": "8418480092",
+        "isbn_13": "",
+        "language": "es",
+        "page_count": 148,
+        "published_date": "2023-10-03",
+        "small_thumbnail": "http://books.google.com/books/content?id=QZTQEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=QZTQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     "Augustus (Williams, John)": {
         "author": "John Williams",
@@ -196,6 +218,28 @@
         "published_date": "2000",
         "small_thumbnail": "http://books.google.com/books/content?id=9oAC0j8hpdQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=9oAC0j8hpdQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "Daring Greatly (Brené Brown)": {
+        "author": "Brené Brown",
+        "book_title": "EL PODER DE SER VULNERABLE",
+        "isbn_10": "9788479539498",
+        "isbn_13": "",
+        "language": "en",
+        "page_count": 0,
+        "published_date": "2016-09-30",
+        "small_thumbnail": "http://books.google.com/books/content?id=k8YCkAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=k8YCkAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "Decisive (Chip Heath)": {
+        "author": "Dan Heath",
+        "book_title": "Decídete",
+        "isbn_10": "8498753783",
+        "isbn_13": "",
+        "language": "es",
+        "page_count": 352,
+        "published_date": "2014-10-28",
+        "small_thumbnail": "http://books.google.com/books/content?id=so1lBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=so1lBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     "DemocracyThe God That Failed: The Economics and Politics of Monarchy, Democracy, and Natural Order (Hans-Hermann Hoppe)": {
         "author": "Hans-Hermann Hoppe",
@@ -373,6 +417,17 @@
         "small_thumbnail": "http://books.google.com/books/content?id=Pe6M8Jjupz4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=Pe6M8Jjupz4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
+    "Healing the Shame that Binds You (John Bradshaw)": {
+        "author": "John Bradshaw",
+        "book_title": "Sanar la Vergüenza Que Nos Domina",
+        "isbn_10": "9788497771016",
+        "isbn_13": "",
+        "language": "es",
+        "page_count": 0,
+        "published_date": "2005-03-17",
+        "small_thumbnail": "http://books.google.com/books/content?id=rZftAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=rZftAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     "Historia de la filosofía occidental (Bertrand Russell)": {
         "author": "Bertrand Russell",
         "book_title": "Historia de la filosofía occidental I",
@@ -427,6 +482,17 @@
         "published_date": "2021-02-02",
         "small_thumbnail": "http://books.google.com/books/content?id=90yzzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=90yzzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "In Therapy (Susie Orbach)": {
+        "author": "Luise Eichenbaum",
+        "book_title": "¿Qué quieren las mujeres?",
+        "isbn_10": "9788485781607",
+        "isbn_13": "",
+        "language": "es",
+        "page_count": 236,
+        "published_date": "1987-01-01",
+        "small_thumbnail": "",
+        "thumbnail": ""
     },
     "LA FE EXPLICADA Leo J 1.doc (Unknown)": {
         "author": "Leo. J. Trese",
@@ -526,6 +592,17 @@
         "published_date": "1984",
         "small_thumbnail": "http://books.google.com/books/content?id=B1pbAAAAcAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=B1pbAAAAcAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "La música del silencio (Patrick Rothfuss)": {
+        "author": "Patrick Rothfuss",
+        "book_title": "La música del silencio",
+        "isbn_10": "8401389410",
+        "isbn_13": "",
+        "language": "es",
+        "page_count": 114,
+        "published_date": "2014-10-28",
+        "small_thumbnail": "http://books.google.com/books/content?id=6ZmMBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=6ZmMBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     "La tabla rasa (Steven Pinker)": {
         "author": "Steven Pinker",
@@ -648,6 +725,17 @@
         "small_thumbnail": "http://books.google.com/books/content?id=WVTFDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=WVTFDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
+    "Models: Attract Women Through Honesty (Mark Manson)": {
+        "author": "Dave Perrotta",
+        "book_title": "Conversación Casanova: Cómo Iniciar Conversaciones Y Coquetear Como Profesional",
+        "isbn_10": "9781791614249",
+        "isbn_13": "",
+        "language": "es",
+        "page_count": 234,
+        "published_date": "2019-01-16",
+        "small_thumbnail": "http://books.google.com/books/content?id=aphnwQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=aphnwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     "One Billion Americans (Matthew Yglesias)": {
         "author": "Matthew Yglesias",
         "book_title": "One Billion Americans",
@@ -669,6 +757,17 @@
         "published_date": "2016-01-01",
         "small_thumbnail": "http://books.google.com/books/content?id=XDj2DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=XDj2DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "Parfit (David Edmonds)": {
+        "author": "David Edmonds",
+        "book_title": "Parfit",
+        "isbn_10": "0691225230",
+        "isbn_13": "",
+        "language": "en",
+        "page_count": 408,
+        "published_date": "2023-04-18",
+        "small_thumbnail": "http://books.google.com/books/content?id=AUuWEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=AUuWEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     "Poor People (William T. Vollmann)": {
         "author": "William T. Vollmann",
@@ -989,6 +1088,17 @@
         "small_thumbnail": "http://books.google.com/books/content?id=q_R8DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=q_R8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
+    "The Second Mountain (Brooks, David)": {
+        "author": "David Brooks",
+        "book_title": "El animal social",
+        "isbn_10": "8490190119",
+        "isbn_13": "",
+        "language": "es",
+        "page_count": 359,
+        "published_date": "2012-03-28",
+        "small_thumbnail": "http://books.google.com/books/content?id=S9c4AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=S9c4AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
     "The Secret Life of Groceries (Benjamin Lorr)": {
         "author": "Benjamin Lorr",
         "book_title": "The Secret Life of Groceries",
@@ -1010,6 +1120,17 @@
         "published_date": "2014-09-30",
         "small_thumbnail": "http://books.google.com/books/content?id=FzRBAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=FzRBAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "The Shyness and Social Anxiety Workbook (Martin M. Antony;Richard P Swinson)": {
+        "author": "Martin Antony",
+        "book_title": "The Shyness and Social Anxiety Workbook",
+        "isbn_10": "1572246820",
+        "isbn_13": "",
+        "language": "en",
+        "page_count": 274,
+        "published_date": "2008-07-02",
+        "small_thumbnail": "http://books.google.com/books/content?id=wx70R4F6lLYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=wx70R4F6lLYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     "The Six Pillars of Self-Esteem (Branden, Nathaniel)": {
         "author": "Nathaniel Branden",
