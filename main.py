@@ -1,3 +1,7 @@
+#!/usr/bin/env -S uv run --script
+# /// script
+# dependencies = ["requests", "dotenv"]
+# ///
 from typing import Iterator, DefaultDict, Tuple, List
 from collections import defaultdict
 from datetime import datetime
