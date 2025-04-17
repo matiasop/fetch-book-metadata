@@ -10,6 +10,17 @@
         "small_thumbnail": "http://books.google.com/books/content?id=r7VaMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=r7VaMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
+    "A Supposedly Fun Thing I'll Never Do Again (David Foster Wallace)": {
+        "author": "David Foster Wallace",
+        "book_title": "Algo supuestamente divertido que nunca volveré a hacer",
+        "isbn_10": "9788439707769",
+        "isbn_13": "",
+        "language": "es",
+        "page_count": 408,
+        "published_date": "2001-09",
+        "small_thumbnail": "http://books.google.com/books/content?id=iN_IPQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=iN_IPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     "A Swim in a Pond in the Rain (George Saunders)": {
         "author": "George Saunders",
         "book_title": "A Swim in a Pond in the Rain",
@@ -97,6 +108,17 @@
         "published_date": "2009-09-01",
         "small_thumbnail": "http://books.google.com/books/content?id=uIKMAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=uIKMAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "Best Things First (Bjorn Lomborg)": {
+        "author": "Bjorn Lomborg",
+        "book_title": "El Ecologista escéptico",
+        "isbn_10": "9788467019544",
+        "isbn_13": "",
+        "language": "es",
+        "page_count": 632,
+        "published_date": "2005",
+        "small_thumbnail": "http://books.google.com/books/content?id=z7GoPAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=z7GoPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     "Capital in the Twenty-First Century (Thomas Piketty)": {
         "author": "Thomas Piketty",
@@ -240,6 +262,17 @@
         "published_date": "2014-10-28",
         "small_thumbnail": "http://books.google.com/books/content?id=so1lBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=so1lBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "Deep Utopia: Life and Meaning in a Solved World (Nick Bostrom)": {
+        "author": "Greg Egan",
+        "book_title": "Ciudad permutación",
+        "isbn_10": "9788498720853",
+        "isbn_13": "",
+        "language": "en",
+        "page_count": 416,
+        "published_date": "2008",
+        "small_thumbnail": "http://books.google.com/books/content?id=Q3tuQwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=Q3tuQwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     "DemocracyThe God That Failed: The Economics and Politics of Monarchy, Democracy, and Natural Order (Hans-Hermann Hoppe)": {
         "author": "Hans-Hermann Hoppe",
@@ -1011,6 +1044,17 @@
         "small_thumbnail": "http://books.google.com/books/content?id=BWHwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=BWHwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
+    "The Culture of Narcissism (Christopher Lasch)": {
+        "author": "Christopher Lasch",
+        "book_title": "La Cultura Del Narcisismo",
+        "isbn_10": "9788489691971",
+        "isbn_13": "",
+        "language": "es",
+        "page_count": 330,
+        "published_date": "1999",
+        "small_thumbnail": "",
+        "thumbnail": ""
+    },
     "The Eastern Orthodox Church (John Anthony McGuckin)": {
         "author": "John Anthony McGuckin",
         "book_title": "The Orthodox Church",
@@ -1208,6 +1252,17 @@
         "published_date": "2016-12-07",
         "small_thumbnail": "http://books.google.com/books/content?id=p7C2DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "thumbnail": "http://books.google.com/books/content?id=p7C2DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "Wanting (Luke Burgis)": {
+        "author": "Adam M. Grant",
+        "book_title": "Originales",
+        "isbn_10": "9786077473497",
+        "isbn_13": "",
+        "language": "es",
+        "page_count": 350,
+        "published_date": "2017",
+        "small_thumbnail": "",
+        "thumbnail": ""
     },
     "What We Owe the Future (William MacAskill)": {
         "author": "William MacAskill",
